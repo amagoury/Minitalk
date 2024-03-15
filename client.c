@@ -32,7 +32,7 @@ void	sender_pid(int pid, char *c)
 		}
 		i++;
 	}
-}
+} 
 
 int	main(int ac, char **av)
 {
